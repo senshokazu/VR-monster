@@ -16,7 +16,7 @@ public class CameraColliderSaurus : MonoBehaviour {
 	public bool Slashmotion;
 	public bool SaurusAttackMotion;
 	public HandController handcontroller;
-	public  EnemySlime enemyslime;
+	public  EnemyGhost enemyslime;
 	// Use this for initialization
 
 	void Start () {

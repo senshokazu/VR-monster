@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MoveStopCollider : MonoBehaviour {
-	public EnemySlime enemyslime;
+	public Enemy enemyslime;
 	// Use this for initialization
 	void Start () {
 		
